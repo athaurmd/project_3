@@ -15,7 +15,7 @@
     50 minutes 
 
  ### Live link of the project    
-[Netlify](https://62ec69f9ac35f861d3d9397b--landing-websites.netlify.app/)
+[Netlify](https://justice-law-webpage.netlify.app)
 
 
 
